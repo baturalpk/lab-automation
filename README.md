@@ -19,7 +19,7 @@ Contributors: Kayra Ege ARDA & Baturalp KIZILTAN
 
 4-) Run "paste.ahk" & "copy.py" scripts respectively.
 
-5-) Click your java console and lay back :)
+5-) Click onto your java console and lay back :)
 
 6-) After the process, close off AutoHotkey software from the taskbar
 
