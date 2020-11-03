@@ -20,7 +20,7 @@ Contributors: Kayra Ege ARDA & Baturalp KIZILTAN
 
 #### Sample Video: https://streamable.com/5ttbok
 
-## DISCLAIMERS!
+## REMINDERS!
 
 - "command.txt" file includes the list of input commands for your java program and it has to be inside the same folder with "cop.py" script.
 - Do NOT forget to run scripts in order (first .ahk script then .py) - After 5 seconds delay, the process will be started.
