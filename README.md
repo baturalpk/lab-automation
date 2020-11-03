@@ -17,7 +17,7 @@ Contributors: Kayra Ege ARDA & Baturalp KIZILTAN
 
 3-) Execute your java program.
 
-4-) Run "auto-copy-paste.ahk" & "copy.py" scripts respectively.
+4-) Run "paste.ahk" & "copy.py" scripts respectively.
 
 5-) Click your java console and lay back :)
 
