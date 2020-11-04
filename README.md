@@ -1,6 +1,4 @@
-## auto-copy-paste
-
-Contributors: Kayra Ege ARDA & Baturalp KIZILTAN
+#### Contributors: Kayra Ege ARDA & Baturalp KIZILTAN
 
 ### INSTALLATION
 
