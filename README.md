@@ -24,8 +24,10 @@
 #### Sample Video: https://streamable.com/5ttbok
 
 ## REMINDERS!
-
 - "command.txt" file includes the list of input commands for your java program and it has to be inside the same folder with "cop.py" script.
 - Do NOT forget to run scripts in order (first .ahk script then .py) - After 5 seconds delay, the process will be started.
 - Do NOT forget to click the java console that you've just executed, before start of the process.
 - If there occurs an unexpected problem at runtime, try to change parameter of "time.sleep(0.2)" method (in the line 14 of ".py" script).
+
+#### !!! AutoHotkey supports only Windows devices. If you are using macOS either Linux, also check:
+* https://github.com/alpkeskin/easy-auto-input
